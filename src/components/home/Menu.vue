@@ -9,7 +9,7 @@
     <el-submenu index="1">
       <template slot="title">
         <i class="el-icon-location"></i>
-        <span>用户管理</span>
+        <span>用户管理啊</span>
       </template>
 
       <el-submenu index="1-4">
