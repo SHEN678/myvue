@@ -31,10 +31,6 @@
       <i class="el-icon-setting"></i>
       <span slot="title">导航四</span>
     </el-menu-item>
-    <el-menu-item index="5">
-      <i class="el-icon-setting"></i>
-      <span slot="title">导航五</span>
-    </el-menu-item>
   </el-menu>
 </div>
 </template>
